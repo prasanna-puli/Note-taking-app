@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'notetakingapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2B4DE3B7DE534A9588150ACB67E5EC6F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CDDE856328D044DDBFA46DA76409FEF3 }}
